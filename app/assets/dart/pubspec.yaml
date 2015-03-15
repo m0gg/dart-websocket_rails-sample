@@ -1,0 +1,7 @@
+name: dart_app
+description:
+dependencies:
+  rails_ujs: any
+  logging: any
+  websocket_rails:
+    path: /home/marcel/arbeitskopien/dart-websocket_rails
