@@ -6,7 +6,7 @@ class RtWebsocketTestController < WebsocketRails::BaseController
   end
 
   def pull
-    send_message :push, TestData.all, channel: :testdata
+    broadcast_message :push, TestData.all, channel: :testdata
     trigger_success
   end
 end
