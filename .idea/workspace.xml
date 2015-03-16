@@ -1,12 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="8e4bcae8-4952-4d4f-8352-ae39d388541b" name="Default" comment="update to broadcast">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/assets/dart/packages/rails_ujs" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/assets/dart/packages/websocket_rails" afterPath="$PROJECT_DIR$/app/assets/dart/packages/websocket_rails" />
+    <list default="true" id="8e4bcae8-4952-4d4f-8352-ae39d388541b" name="Default" comment="">
+      <change type="DELETED" beforePath="$PROJECT_DIR$/README.rdoc" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/README.md" afterPath="$PROJECT_DIR$/README.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/assets/dart/pubspec.lock" afterPath="$PROJECT_DIR$/app/assets/dart/pubspec.lock" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/assets/dart/pubspec.yaml" afterPath="$PROJECT_DIR$/app/assets/dart/pubspec.yaml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="testapp.iws" />
@@ -62,8 +59,8 @@
             <state />
           </provider>
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.5177665" vertical-offset="0" max-vertical-offset="591">
-              <caret line="17" column="48" selection-start-line="17" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
+            <state vertical-scroll-proportion="0.48730963" vertical-offset="0" max-vertical-offset="591">
+              <caret line="16" column="40" selection-start-line="16" selection-start-column="40" selection-end-line="16" selection-end-column="40" />
               <folding />
             </state>
           </provider>
@@ -443,7 +440,13 @@
       <option name="project" value="LOCAL" />
       <updated>1426507118662</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="update for generic usage (dart-websocket_rails-0.2.0)">
+      <created>1426515219293</created>
+      <option name="number" value="00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1426515219293</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TodoView" selected-index="0">
@@ -515,7 +518,8 @@
     <MESSAGE value="add .ruby-version/gemset" />
     <MESSAGE value="update gitignore" />
     <MESSAGE value="update to broadcast" />
-    <option name="LAST_COMMIT_MESSAGE" value="update to broadcast" />
+    <MESSAGE value="update for generic usage (dart-websocket_rails-0.2.0)" />
+    <option name="LAST_COMMIT_MESSAGE" value="update for generic usage (dart-websocket_rails-0.2.0)" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -791,8 +795,8 @@
         <state />
       </provider>
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.5177665" vertical-offset="0" max-vertical-offset="591">
-          <caret line="17" column="48" selection-start-line="17" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
+        <state vertical-scroll-proportion="0.48730963" vertical-offset="0" max-vertical-offset="591">
+          <caret line="16" column="40" selection-start-line="16" selection-start-column="40" selection-end-line="16" selection-end-column="40" />
           <folding />
         </state>
       </provider>

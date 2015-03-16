@@ -14,5 +14,5 @@ rake db:migrate
 rake db:seed
 rails s
 ```
-And head to your local development url [http://localhost:3000]
+And head to your local development url [localhost:3000](http://localhost:3000)
 
