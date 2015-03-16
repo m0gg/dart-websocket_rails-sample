@@ -7,15 +7,15 @@ GIT
 PATH
   remote: /home/marcel/arbeitskopien/dart-rails
   specs:
-    dart-rails (0.3.0)
+    dart-rails (0.2.4)
       rails (>= 4.0.0)
-      ruby-dart2js (~> 0.2.0)
+      ruby-dart2js (~> 0.1.0)
       sprockets-rails (>= 2.0.0)
 
 PATH
   remote: /home/marcel/arbeitskopien/ruby-dart_js
   specs:
-    ruby-dart2js (0.2.1)
+    ruby-dart2js (0.1.0)
 
 GEM
   remote: https://rubygems.org/
