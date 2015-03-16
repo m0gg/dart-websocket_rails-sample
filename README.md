@@ -1,6 +1,18 @@
 # dart-websocket_rails-sample
-### Attention: pubspec.yml currently not intended for simple git pull + bundle install
 
 Sample Code for dart-websocket_rails
 
+## How to run
+
+Simple Rails app.
+
+```sh
+bundle install
+rake pub:get
+rake db:create
+rake db:migrate
+rake db:seed
+rails s
+```
+And head to your local development url [http://localhost:3000]
 
